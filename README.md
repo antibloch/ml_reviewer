@@ -19,7 +19,7 @@
 
 ```bash
 chmod +x env.sh
-chmod +x review.sh  <topic of ML>  <number of papers>
+chmod +x review.sh  "<topic of ML>"  <number of papers>
 
 # Setup conda environment
 ./env.sh
